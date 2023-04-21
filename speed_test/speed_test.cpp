@@ -68,6 +68,6 @@ int main()
     printf("The time: %f seconds\n", avg_time); // num == 10000000 - 0.4 сек
                                                 // num == 100000000 - 8,5 сек 
                                                 // num == 1000000000 - 201 сек 
-
+    
     return 0;
 }
