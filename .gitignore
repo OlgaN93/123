@@ -1,0 +1,14 @@
+.vs/
+CppProperties.json
+Debug/
+vector_prime_nums.sln
+vector_prime_nums.vcxproj
+vector_prime_nums.vcxproj.filters
+vector_prime_nums.vcxproj.user
+x64/
+/speed_test/*
+!/speed_test/speed_test.cpp
+#speed_test/speed_test.vcxproj
+#speed_test/speed_test.vcxproj.filters
+#speed_test/speed_test.vcxproj.user
+#speed_test/x64/
